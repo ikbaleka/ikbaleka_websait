@@ -26,8 +26,8 @@ body {
 }
 .biodata {
   background-color: #ffff;
-  transform: translateY(50%);
-  margin-top: 70px;
+  transform: translateY(-3%);
+  margin-top: 67px;
 }
 #prrjects {
   background: linear-gradient(#8f468c 10%, #dff274 90%, #fefefe 100%);
